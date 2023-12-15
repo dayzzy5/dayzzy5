@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>SIEM (Azure Sentinel MAP with LIVE CYBER ATTACKS!)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/dayzzy5/SIEM-Project)
 - <b>Nessus (Vulnerability Management)</b>
   - [Evidence](https://github.com/dayzzy5/Nessus-Vulnerability-Management-)
 - <b>Active Directory Home Lab</b>
